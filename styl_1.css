@@ -1,0 +1,66 @@
+body{
+    font-family:Arial, Helvetica, sans-serif ;
+}
+h1.tekst{
+    color:white
+}
+h2.tekst{
+    color:white
+}
+div.tytuł{
+    background-color: #00838F;
+    padding: 5px;
+    size: 130%;
+    text-align: center;
+  }
+div.tytul{
+  background-color: #00838F;
+  padding: 5px;
+  size: 130%;
+  text-align: center;
+}
+div.lista{
+    padding: 5px;
+position: relative;
+    background-color: #EFEFEF;
+    width: 55%;
+    height: 150px;
+    list-style-type: none;
+}
+div.tabela{
+    padding: 5px;
+    background-color: #EFEFEF;
+    width: 55%;
+    height: 300px;
+}
+table.tab {
+    border-collapse: collapse;
+    width: 80%;
+    border: 1px solid #4FB3BF;
+
+}
+
+th, td {
+    border: 1px solid #4FB3BF;
+    padding: 4px;
+
+}
+tbody td:hover{
+    background-color:  #4FB3BF;
+}
+
+
+
+div.zdjęcie{
+    padding: 10px;
+    right:0;
+    top: 98px;
+    bottom: 0;
+    position: absolute;
+    background-color: #4FB3BF;
+    width: 45%;
+    height: 450px;
+    text-align: center;
+
+}
+
